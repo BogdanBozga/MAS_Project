@@ -1,0 +1,152 @@
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 60.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 75.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 24.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 40.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 120.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 150.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 48.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 80.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 180.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 225.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 120.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 72.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 240.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 300.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 160.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 96.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 300.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 375.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 120.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 200.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 360.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 450.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 144.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 240.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 420.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 525.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 280.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 168.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 600.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 480.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 320.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 192.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 540.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 675.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 360.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 216.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 600.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 750.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 240.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 400.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 660.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 825.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 264.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 440.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 720.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 900.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 288.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 480.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 780.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 975.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 312.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 520.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 1050.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 840.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 336.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 560.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 1125.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 900.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 360.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 600.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 1200.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 960.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 384.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 640.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 1275.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 1020.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 408.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 680.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 1350.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 1080.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 432.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 720.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 1425.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 1140.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 456.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 760.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 75.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 60.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 24.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 40.00 currency units.
+Replanting Tomatoes...
+Replanting Cucumbers...
+Replanting Lettuce...
+Replanting Herbs...
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 120.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 80.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 48.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 150.00 currency units.
+Replanting Cucumbers...
+Replanting Herbs...
+Replanting Lettuce...
+Replanting Tomatoes...
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 75.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 60.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 24.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 40.00 currency units.
+Replanting Tomatoes...
+Replanting Cucumbers...
+Replanting Lettuce...
+Replanting Herbs...
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 150.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 48.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 120.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 80.00 currency units.
+Replanting Tomatoes...
+Replanting Lettuce...
+Replanting Cucumbers...
+Replanting Herbs...
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 225.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 72.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 120.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 180.00 currency units.
+Replanting Lettuce...
+Replanting Tomatoes...
+Replanting Cucumbers...
+Replanting Herbs...
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 300.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 96.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 160.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 240.00 currency units.
+Replanting Tomatoes...
+Replanting Lettuce...
+Replanting Herbs...
+Replanting Cucumbers...
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 375.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 200.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 120.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 300.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 75.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 60.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 24.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 40.00 currency units.
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 60.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 75.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 24.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 40.00 currency units.
+Replanting Cucumbers...
+Replanting Tomatoes...
+Replanting Lettuce...
+Replanting Herbs...
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 120.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 48.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 150.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 80.00 currency units.
+Replanting Cucumbers...
+Replanting Lettuce...
+Replanting Tomatoes...
+Replanting Herbs...
+Sold 60.00 units of Cucumbers for 60.00 currency units. Total revenue: 180.00 currency units.
+Sold 30.00 units of Lettuce for 24.00 currency units. Total revenue: 72.00 currency units.
+Sold 50.00 units of Tomatoes for 75.00 currency units. Total revenue: 225.00 currency units.
+Sold 20.00 units of Herbs for 40.00 currency units. Total revenue: 120.00 currency units.
