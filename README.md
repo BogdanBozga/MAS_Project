@@ -15,3 +15,23 @@ The Fully Autonomous Indoor Farming System is a Java-based simulation designed t
 
 
 
+### GUI
+- **MainFrame**: The main GUI window displaying plant statuses and total revenue.
+
+### Configuration
+- **SystemConfig**: Contains configuration settings for the simulation including climate settings, irrigation schedules, lighting schedules, nutrient schedules, and pricing information.
+
+### Communication
+- Agents communicate using ACL messages to manage tasks and share information efficiently.
+
+## Usage
+
+1. **Start the System**
+   - Open your IDE and load the project.
+   - Run `MainController.java` to start all agents and the GUI.
+
+2. **Interact with the GUI**
+   - Use the GUI to monitor plant statuses, adjust settings, and view revenue.
+
+3. **Shutdown**
+   - Close the GUI window or stop the IDE's running process to terminate the application.
