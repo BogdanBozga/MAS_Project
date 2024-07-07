@@ -13,6 +13,39 @@ The Fully Autonomous Indoor Farming System is a Java-based simulation designed t
 - **Logging and Monitoring**: Includes comprehensive logging of actions and a monitoring system that oversees farm operations.
 
 
+## GUI Example
+
+### Plant Status
+![Plant Status](sources/pos1.png)
+
+### Revenue Tracking
+![Revenue Tracking](sources/pos2.png)
+
+### System Animation
+![System Animation](sources/Animation.gif)
+
+## Prerequisites
+- Java JDK 8 or higher
+- Eclipse, IntelliJ IDEA, or any compatible Java IDE
+- JADE (Java Agent DEvelopment Framework)
+
+  
+## System Architecture
+
+The system integrates multiple Java classes and agents, each handling specific aspects of indoor farming management:
+
+### Main Entry
+- **MainController.java**: Initializes and starts all agents and the GUI component, setting the operational stage for the system.
+
+### Agents 
+- **ClimateControlAgent**: Manages climate conditions (humidity and temperature) for each plant type.
+- **GrowthMonitoringAgent**: Monitors the growth stages of plants.
+- **HarvestingAgent**: Automates the harvesting process when plants reach maturity.
+- **IrrigationAgent**: Automates the watering schedule based on plant requirements.
+- **LightingControlAgent**: Manages lighting duration to simulate day/night cycles.
+- **LogisticsAndDistributionAgent**: Handles the distribution of harvested produce and logs revenue.
+- **NutrientManagementAgent**: Provides nutrients to plants at scheduled intervals.
+
 
 
 ### GUI
