@@ -28,21 +28,7 @@ The Fully Autonomous Indoor Farming System is a Java-based simulation designed t
 - Eclipse, IntelliJ IDEA, or any compatible Java IDE
 - JADE (Java Agent DEvelopment Framework)
 
-## Installation
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/indoor-farming-system
-   ```
-   
-2. **Navigate to the Project Directory**
-   ```bash
-   cd indoor-farming-system
-   ```
-
-3. **Set Up JADE**
-   Ensure JADE is installed and configured in your IDE. [JADE Setup Guide](https://jade.tilab.com/documentation/tutorials-guides/).
-
+  
 ## System Architecture
 
 The system integrates multiple Java classes and agents, each handling specific aspects of indoor farming management:
